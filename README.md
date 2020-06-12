@@ -6,5 +6,5 @@ The caffe package is download from https://github.com/BVLC/caffe
 ### The results of CoEGNET 
 Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 ### Post-processing
-TO DO!
+To Do!
 
