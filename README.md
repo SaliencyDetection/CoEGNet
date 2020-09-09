@@ -1,4 +1,7 @@
 # CoEGNET
+
+Please refer to our homepage for more details: http://dpfan.net/CoSOD3K/
+
 ### Caffe Version
 The caffe package is borrowed from https://github.com/BVLC/caffe
 ### Pre-trained models in Caffe:
